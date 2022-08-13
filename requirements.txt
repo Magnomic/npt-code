@@ -1,0 +1,42 @@
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bm3d==3.0.9
+certifi==2021.5.30
+cycler==0.11.0
+dataclasses==0.8
+decorator==4.4.2
+entrypoints==0.3
+imageio==2.15.0
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1596206602906/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1593447367857/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+jedi==0.17.0
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1633420100582/work
+kiwisolver==1.3.1
+matplotlib==3.3.4
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx==2.5.1
+nose==1.3.7
+numpy==1.19.5
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.4.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing==3.0.7
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+PyWavelets==1.1.1
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628268400816/work
+scikit-image==0.17.2
+scipy==1.5.4
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tensorly==0.7.0
+tifffile==2020.9.3
+torch==1.10.1
+torchvision==0.11.2
+tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1632746497744/work
+typing_extensions==4.1.1
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
