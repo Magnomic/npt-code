@@ -20,6 +20,7 @@ The directory structure and files of this project is detailed as:
 |/data | Seismic data processing method for D2D-NT training |
 |/fault_interpretation | Experiments for transferability|
 |/model_zoo | Npt models that are trained by us, which outputs results in paper.|
+|/models | Network structures of D2D-NT and baselines|
 |/options | Hyper-parameter and configuration of D2D-NT model|
 |/parameter_test | Data patches that used in our experiments|
 |/tdtv_patches| Samples that ouputs by TDTV|
@@ -27,6 +28,7 @@ The directory structure and files of this project is detailed as:
 |comparation.ipynb | Experiment results in our paper|
 |d2d_nt.py | Code of D2D-NT model|
 |i2i_nt.ipynb | Code of I2I-NT model. We also provide some examples for readers to fine-tune the parameters on their datasets.|
+|image_utils.py | Utils that used for experiments|
 |no_clean.png | Position image|
 |no_noise.png | Position image|
 |requirements.txt | Readers can use this file to build a conda runtime environment|
